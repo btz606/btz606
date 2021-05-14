@@ -1,9 +1,6 @@
-### Hi Friend 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=btz606&show_icons=true&theme=default">
 
-<!--
-**btz606/btz606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 你好，世界 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,8 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-### 奋斗boy，加油！(≡•̀·̯•́≡)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=btz606&count_private=true&show_icons=true&theme=default">
+### 奋斗boy，加油！(≡•̀·̯•́≡) 👋👋👋
