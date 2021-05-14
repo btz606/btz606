@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=btz606&show_icons=true&theme=default">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=btz606&show_icons=true&theme=buefy&count_private=true">
 
 ### 你好，世界 👋
 - 🔭 I’m currently working on xi'an
