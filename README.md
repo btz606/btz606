@@ -3,7 +3,7 @@
 ### 你好，世界 👋
 
 - 🔭 I’m currently working on xi'an
-- 🌱 I’m currently learning TS Electron React Socket.IO
+- 🌱 I’m currently learning TS Electron React
 - 💬 Ask me about Life?
 - 📫 How to reach me: btz606@163.com
 - 😄 hobby: reading running 
